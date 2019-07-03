@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Helpers/function.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/banner/index.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/complaint/index.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/config/index.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/headlines/index.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/helpcenter" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/index/index.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notice/index.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notice/notice_insert.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notice/notice_update.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/order/complete.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/order/fail.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/order/index.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/order/pay.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/order/unpaid.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/public/layout.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/template/index.blade.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/user/index.blade.php" charset="GBK" />
+  </component>
+</project>
