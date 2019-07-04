@@ -25,7 +25,7 @@
 
     <script type="text/html" id="tableBar">
         <a class="layui-btn layui-btn-primary layui-btn-xs" lay-event="edit">完成</a>
-        <a class="layui-btn layui-btn-primary layui-btn-xs" lay-event="del">失败</a>
+        <a class="layui-btn layi-btn-primary layui-btn-xs" lay-event="del">失败</a>
         {{--        <a class="layui-btn layui-btn-xs" lay-event="reset">重置密码</a>--}}
     </script>
     <!-- 表格操作列 -->
